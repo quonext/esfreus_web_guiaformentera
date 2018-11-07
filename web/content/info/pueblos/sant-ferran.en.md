@@ -1,7 +1,8 @@
 ---
 
 title: 'Sant Ferran de Ses Roques'
-description: 'Sant Ferran se transforma al caer el sol, entorno a uno de los locales más emblematicos de la isla se rinde tributo con pasión a la época de los hippies.'
+description: ''
+
 image: '/images/info/pueblos/img_pueblos_santferran.jpg'
 
 ---

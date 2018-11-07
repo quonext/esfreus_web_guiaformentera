@@ -1,7 +1,7 @@
 ---
 
 title: 'Sant Francesc Xavier'
-description: 'a capital de Formentera es un encantador y pequeño pueblo donde realizar sus compras y pasear. '
+description: 'La capital de Formentera es un encantador y pequeño pueblo donde realizar sus compras y pasear. '
 image: '/images/info/pueblos/img_pueblos_santfrancesc.jpg'
 
 ---
