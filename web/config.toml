@@ -43,8 +43,8 @@ DefaultContentLanguage = "es"
    weight = 30
 [[languages.es.menu.main]]
   identifier = "reservas"
-  name = "Reservas"
-  title = "Reservas"
+  name = "Reservar"
+  title = "Reservar"
   url = "/reservas/"
   weight = 40
 

@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+.grid {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.grid .card {
+    height: 90%;
+}
+.reservas{
+    /* margin-top: 60px; */
+}
+
+nav {
+    background-color: #E6DAC4;
+}
+
+nav ul li a {
+    color: #9D4D1E;
+}
+
+a.brand-logo img {
+    width: 60px;
+    vertical-align: middle;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.jumbotron h1 {
+    margin-bottom: 0px;
+}
+
+.page-footer {
+    background-color: #E6DAC4;
+    color: #9D4D1E;
+}
+
+/*
+.page-footer .row .col {
+    padding: 0px;
+}
+*/
+
+.footer-copyright {
+    background-color: #9D4D1E;
+}
