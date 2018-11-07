@@ -1,7 +1,9 @@
 ---
 title: 'Spiaggia di Llevant'
 description: 'Lunga spiaggia dalle acque cristalline e sabbia bianca come Lletas peró con parti piú tranquille e zone dove praticare il nudismo.'
+image: '/images/info/playas/img_playas_llevant.jpg'
 ---
+
 
 La spiaggia di Llevant é a 3 km da Es Pujols, situata tra Punta des Trucadors e Platja de ses Canyes.
 

@@ -2,7 +2,7 @@
 
 title: 'Playa de Es Arenals'
 description: 'Es Arenals es una playa de ambiente familiar, conocida por el extenso arenal que le da nombre y la pureza de sus aguas. '
-image: '../images/img_playas_es_arenals.jpg'
+image: '/images/info/playas/img_playas_es_arenals.jpg'
 ---
 
 Es Arenals está a cinco kilómetros de Pilar de la Mola, situada en la zona sureste de Formentera, entre es Valencians y Caló des Morts, así como relativamente próximo a la urbanización Maryland, las zonas elevadas de pinares frondosos de es Copinyar y Bosc de sa Pujada. En este entorno natural, que forma parte del Àrea Natural d’Especial Interès de Platja de Migjorn-Costa de Tramuntana, se practica nudismo. 

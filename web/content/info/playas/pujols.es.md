@@ -1,6 +1,7 @@
 ---
 title: 'Playa de Es Pujols'
 description: 'Es Pujols es el núcleo turístico por excelencia de Formentera, tranquilo y movido a la vez. La mayor oferta comercial, restauración y locales de copas se encuentra aquí.'
+image: '/images/info/playas/img_playas_espujols.jpg'
 ---
 
 Es el nucleo más turístico de toda la Isla donde podrá encontrar ofertas de ocio para todos los gustos. La gran variedad de comercios, boutiques, restaurantes, bares, pubs y discotecas hacen que el pueblo tenga vida tanto de día como de noche, pero sin perder el relajado ambiente general de Formentera.

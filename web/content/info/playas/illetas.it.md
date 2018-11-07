@@ -2,7 +2,9 @@
 
 title: 'Spiaggia di Illetas'
 description: 'La spiaggia di ses Illetes é considerata una delle spiagge migliori del mondo, grazie alle sue acque cristalline dal color turchese e la sabbia fine.'
+image: '/images/info/playas/img_playas_illetas.jpg'
 ---
+
 
 La spiaggia di ses Illetes é a 4 chilometri dalla Savina, situata nella penisola di Trucadors, tra Punta des Pas e Platgeta des Carregador. C’é una rampa di acceso alla spiaggia per disabili nella zona chiamata Cavall d'en Borràs. Dalla sua costa si vedono e la proteggono, gli isolotti Illa des Ponent, Illa de Tramuntana, Escull des Pou, Illa Rodona, Escull d’en Paia, Racó des Palo, nell zona sud, e l’isola di s’Espalmador, al nord.
 

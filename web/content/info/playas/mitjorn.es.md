@@ -1,7 +1,9 @@
 ---
 title: 'Playa de Mitjorn'
 description: 'Larga playa donde puede encontrar pequeños rincones donde disfutar de sus aguas y la tranquilidad. Es la zona ideal si desea practicar el nudismo.'
+image: '/images/info/playas/img_playas_mitjorn.jpg'
 ---
+
 La playa de Migjorn está a dos kilómetros de Sant Francesc Xavier, situada entre Mal Pas y Caló des Mort. Hay una rampa de acceso a la playa para minusvàlidos en la zona llamada Es Arenals. Su costa ocupa casi todo el sur de Formentera, declarada Àrea Natural d’Especial Interès de Platja de Mitjorn-Costa de Tramuntana, desde las puntas d’Anguila y de sa Fragata, incluyendo Punta des Vell Marí, es Corb Marí, racons de s’Argelar y Fondo, es Valencians , es Arenals y es Ram. En este entorno se practica nudismo.
 
 
