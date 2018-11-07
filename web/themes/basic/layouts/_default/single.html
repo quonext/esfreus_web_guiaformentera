@@ -1,0 +1,8 @@
+{{ define "main" }}
+<h1>{{.Title}}</h1>
+<h2>{{.Description}}</h2>
+<img src="{{.Params.image}}" alt="{{.Title}}">
+{{$img:=.Params.image}}
+{{.Resources }}
+{{.Content}}
+{{end}}

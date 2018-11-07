@@ -2,3 +2,41 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme="basic"
+
+DefaultContentLanguage = "es"
+
+[languages]
+  [languages.en]
+    title = "Guías Formentera"
+    weight = 2
+
+  [languages.es]
+    title = "Guías Formentera"
+    weight = 1
+
+[menu]
+
+  [[languages.es.menu.main]]
+   identifier = "info"
+   name = "Info"
+   title = "Info"
+   url = "/info"
+   weight = 10
+ [[languages.es.menu.main]]
+   identifier = "articulos"
+   name = "Artículos"
+   title = "Artículos"
+   url = "/articulos/"
+   weight = 20
+[[languages.es.menu.main]]
+   identifier = "fotos"
+   name = "Fotos"
+   title = "Fotos"
+   url = "/fotos/"
+   weight = 30
+[[languages.es.menu.main]]
+  identifier = "reservas"
+  name = "Reservas"
+  title = "Reservas"
+  url = "/reservas/"
+  weight = 40
