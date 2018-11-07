@@ -6,6 +6,11 @@ theme="basic"
 DefaultContentLanguage = "es"
 
 [languages]
+
+ [languages.it]
+    title = "Guías Formentera"
+    weight = 3
+
   [languages.en]
     title = "Guías Formentera"
     weight = 2
@@ -15,6 +20,8 @@ DefaultContentLanguage = "es"
     weight = 1
 
 [menu]
+
+#es
 
   [[languages.es.menu.main]]
    identifier = "info"
@@ -40,3 +47,57 @@ DefaultContentLanguage = "es"
   title = "Reservas"
   url = "/reservas/"
   weight = 40
+
+#en
+
+[[languages.en.menu.main]]
+   identifier = "info"
+   name = "Info"
+   title = "Info"
+   url = "/en/info"
+   weight = 10
+ [[languages.en.menu.main]]
+   identifier = "articulos"
+   name = "Articles"
+   title = "Articles"
+   url = "/en/articulos/"
+   weight = 20
+[[languages.en.menu.main]]
+   identifier = "fotos"
+   name = "Photo"
+   title = "Photo"
+   url = "/en/fotos/"
+   weight = 30
+[[languages.en.menu.main]]
+  identifier = "reservas"
+  name = "Bookings"
+  title = "Bookings"
+  url = "/en/reservas/"
+  weight = 40
+
+#it
+
+  [[languages.it.menu.main]]
+     identifier = "info"
+     name = "Info"
+     title = "Info"
+     url = "/it/info"
+     weight = 10
+   [[languages.it.menu.main]]
+     identifier = "articulos"
+     name = "Articles"
+     title = "Articles"
+     url = "/it/articulos/"
+     weight = 20
+  [[languages.it.menu.main]]
+     identifier = "fotos"
+     name = "Photo"
+     title = "Photo"
+     url = "/it/fotos/"
+     weight = 30
+  [[languages.it.menu.main]]
+    identifier = "reservas"
+    name = "Riserva"
+    title = "Riserva"
+    url = "/it/reservas/"
+    weight = 40

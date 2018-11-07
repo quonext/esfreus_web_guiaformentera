@@ -2,7 +2,7 @@
 
 title: 'Sant Francesc Xavier'
 description: 'a capital de Formentera es un encantador y pequeño pueblo donde realizar sus compras y pasear. '
-image: '../images/img_pueblos_santfrancesc.jpg'
+image: '/images/info/pueblos/img_pueblos_santfrancesc.jpg'
 
 ---
 A tres kilómetros del puerto de La Savina encontramos San Francesc Xavier, el núcleo urbano más importante yconsiderado como la capital de la isla ya que en su plaza se ubica el Ayuntamiento.

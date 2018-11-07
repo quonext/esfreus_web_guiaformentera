@@ -19,6 +19,15 @@
 
             </script>
             <style>
+                body {
+                    display: flex;
+                    min-height: 100vh;
+                    flex-direction: column;
+                }
+
+                main {
+                    flex: 1 0 auto;
+                }
                 .grid {
                     display: inline-flex;
                     flex-wrap: wrap;
@@ -35,11 +44,13 @@
 <body>
 
 {{ partial "header.html" .}}
-<div class="container">
+<main>
+    <div class="container">
 
-  {{ block "main" . }}{{ end }}
+      {{ block "main" . }}{{ end }}
 
-</div>
+    </div>
+</main>
 {{ block "footer" . }}{{ partial "footer.html" .}}{{ end }}
 
 <!-- Compiled and minified JavaScript -->
