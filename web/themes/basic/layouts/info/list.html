@@ -1,0 +1,92 @@
+{{ define "main" }}
+<h1>{{.Title}}</h1>
+
+{{ if (eq .Title "Info")  }}
+<div class="row grid">
+    <div class="col m4 s12 ">
+        <a href="playas">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/info/img_playas2.jpg">
+                    <span class="card-title">Playas</span>
+                </div>
+                <div class="card-content">
+                    <p>Formentera es un sitio ideneo para descansar y disfrutar de sus playas enclavadas en un entorno natural.</p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="col m4 s12 ">
+        <a href="pueblos">
+        <div class="card">
+            <div class="card-image">
+                <img src="/images/info/img_pueblos.jpg">
+                <span class="card-title">Pueblos</span>
+            </div>
+            <div class="card-content">
+                <p>Conoce los pueblos para conocer la isla realmente.</p>
+            </div>
+        </div>
+        </a>
+    </div>
+    <div class="col m4 s12 ">
+        <div class="card">
+            <div class="card-image">
+                <img src="/images/info/img_quevisitar.jpg">
+                <span class="card-title">Que visitar</span>
+            </div>
+            <div class="card-content">
+                <p>El parque natural de Ses Salines, los faros, los mercados. Formentera no son solo sus playas.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col m4 s12 ">
+        <div class="card">
+            <div class="card-image">
+                <img src="/images/info/img_ocio.jpg">
+                <span class="card-title">Ocio</span>
+            </div>
+            <div class="card-content">
+                <p>Conoce como aprovechar la isla al máximo.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col m4 s12 ">
+        <div class="card">
+            <div class="card-image">
+                <img src="/images/info/img_scooter2.jpg">
+                <span class="card-title">Como desplazarse</span>
+            </div>
+            <div class="card-content">
+                <p>La mejor manera de moverte por la isla es con un Vespino. Alquila aqui tu vehículo.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col m4 s12 ">
+        <div class="card">
+            <div class="card-image">
+                <img src="/images/info/img_barco5.jpg">
+                <span class="card-title">Horarios barco</span>
+            </div>
+            <div class="card-content">
+                <p>Consulta los horarios para llegar a la isla.</p>
+            </div>
+        </div>
+    </div>
+</div>
+{{ else }}
+<ul>
+    {{range .Sections}}
+    <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+
+    {{end}}
+    {{range .Pages}}
+    <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+
+    {{end}}
+</ul>
+{{ end }}
+
+
+{{end}}
+

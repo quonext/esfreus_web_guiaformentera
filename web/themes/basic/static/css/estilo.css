@@ -41,6 +41,16 @@ a.brand-logo img {
     margin-bottom: 0px;
 }
 
+.accionesprincipales {
+    margin-bottom: 80px;
+}
+
+/*
+.accionesprincipales .col {
+    border-left: 3px solid #9D4D1E;
+}
+*/
+
 .page-footer {
     background-color: #E6DAC4;
     color: #9D4D1E;
