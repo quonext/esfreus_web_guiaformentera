@@ -45,6 +45,11 @@ a.brand-logo img {
     margin-bottom: 80px;
 }
 
+.accionesprincipales a:hover {
+    color: #9D4D1E;
+}
+
+
 .accionesprincipales .col {
     margin-bottom: 70px;
 }
