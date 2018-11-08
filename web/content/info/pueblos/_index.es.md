@@ -1,5 +1,5 @@
 ---
 
-title: 'Pueblos'
+title: 'Los pueblos de Formentera'
 
 ---
