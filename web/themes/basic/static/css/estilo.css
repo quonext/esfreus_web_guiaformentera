@@ -46,9 +46,6 @@ a.brand-logo img {
     margin-bottom: 80px;
 }
 
-.accionesprincipales a:hover {
-    color: #9D4D1E;
-}
 
 
 .accionesprincipales .col {
@@ -71,11 +68,15 @@ a.brand-logo img {
     background-color: #9D4D1E;
 }
 
+a {
+    color: #6A9096;
+}
+
 a:hover {
-    color: #9D4D1E;
+    color: #396873;
 }
 
 a .card:hover {
     /* box-shadow: 0 2px 2px 0 #9D4D1E; */
-    border: 1px solid #9D4D1E;
+    border: 1px solid #396873;
 }
