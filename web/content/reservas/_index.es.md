@@ -1,5 +1,5 @@
 ---
 
-title: 'Reservar'
+title: 'Reservar con nosotros'
 
 ---

@@ -31,8 +31,8 @@ DefaultContentLanguage = "es"
    weight = 10
  [[languages.es.menu.main]]
    identifier = "articulos"
-   name = "Artículos"
-   title = "Artículos"
+   name = "Blog"
+   title = "Blog"
    url = "/articulos/"
    weight = 20
 [[languages.es.menu.main]]
@@ -58,8 +58,8 @@ DefaultContentLanguage = "es"
    weight = 10
  [[languages.en.menu.main]]
    identifier = "articulos"
-   name = "Articles"
-   title = "Articles"
+   name = "Blog"
+   title = "Blog"
    url = "/en/articulos/"
    weight = 20
 [[languages.en.menu.main]]
@@ -85,8 +85,8 @@ DefaultContentLanguage = "es"
      weight = 10
    [[languages.it.menu.main]]
      identifier = "articulos"
-     name = "Articles"
-     title = "Articles"
+     name = "Blog"
+     title = "Blog"
      url = "/it/articulos/"
      weight = 20
   [[languages.it.menu.main]]

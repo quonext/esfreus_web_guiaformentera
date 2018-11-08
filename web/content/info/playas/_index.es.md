@@ -1,6 +1,6 @@
 ---
 
-title: 'Playas de Formentera'
+title: 'Las playas de Formentera'
 image: '/images/info/playas/img_playas.jpg'
 description: 'Formentera es un sitio idóneo para descansar y disfrutar de sus playas enclavadas en un entorno natural. Sus aguas transparentes, las sútiles coloraciones verdiazules que toman sus fondos, sus finas y blancas arenas, el sol radiante y las agradables temperaturas son razones suficientes para denominarla el último paraíso del Mediterraneo, que merece ser visitado.'
 ---
