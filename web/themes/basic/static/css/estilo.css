@@ -90,3 +90,12 @@ a .card:hover {
     /* box-shadow: 0 2px 2px 0 #9D4D1E; */
     border: 1px solid #396873;
 }
+
+
+main h2 {
+    text-align: center;
+}
+
+.listacontenidos {
+    font-size: 24px;
+}

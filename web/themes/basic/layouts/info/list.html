@@ -1,5 +1,5 @@
 {{ define "main" }}
-<h1>{{.Title}}</h1>
+<h2>{{.Title}}</h2>
 
 {{ if (eq .Params.tipo "x")  }}
 <div class="row grid">
@@ -75,7 +75,7 @@
     </div>
 </div>
 {{ else }}
-<ul>
+<ul class="listacontenidos center">
     {{range .Sections}}
     <li><a href="{{.Permalink}}">{{.Title}}</a></li>
 
